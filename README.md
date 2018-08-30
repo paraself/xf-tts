@@ -1,6 +1,8 @@
 # xf-tts
 NodeJS版的讯飞TTS
 
+[![NPM](https://nodei.co/npm/xf-tts.png)](https://nodei.co/npm/xf-tts/)
+
 ## 安装
 ``` javascript
 npm i -S xf-tts
