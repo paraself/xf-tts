@@ -1,6 +1,7 @@
 # xf-tts
 NodeJS版的讯飞TTS
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c997b0e2c1fb45afa263fbf77034681f)](https://app.codacy.com/app/paraself/xf-tts?utm_source=github.com&utm_medium=referral&utm_content=paraself/xf-tts&utm_campaign=Badge_Grade_Settings)
 [![NPM](https://nodei.co/npm/xf-tts.png)](https://nodei.co/npm/xf-tts/)
 
 ## 安装
